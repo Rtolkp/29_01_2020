@@ -1,0 +1,21 @@
+
+.box{
+	width: 100px;
+	height: 100px;
+	opacity: 0.9;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+}
+.red{
+	background:red;
+	z-index: 1;
+}
+.green{
+	background:green;
+	z-index: 2 
+}
+.yellow{
+	background:yellow;
+	z-index: 3;
+}
